@@ -12,7 +12,7 @@ All VSCode configs for comfort work
 * TODO Highlight``
 
 ## Workspace settings:
-``{
+```{
   "explorer.openEditors.visible": 0
 
   /* Indent settings */
@@ -27,7 +27,7 @@ All VSCode configs for comfort work
               "backgroundColor": "#00fa9a"
           }
       ]
-}``
+}```
 
 ## Snippets:
 ### React:
