@@ -5,14 +5,14 @@ All VSCode configs for comfort work
 ``One Dark Pro``
 
 ## Packages:
-```Angular Essentials
+``Angular Essentials
 TypeScript Hero
 Path Autocomplete
 Git Lens
-TODO Highlight```
+TODO Highlight``
 
 ## Workspace settings:
-```{
+``{
   "explorer.openEditors.visible": 0
 
   /* Indent settings */
@@ -27,11 +27,11 @@ TODO Highlight```
               "backgroundColor": "#00fa9a"
           }
       ]
-}```
+}``
 
 ## Snippets:
 ### React:
-```{
+``{
     /*
         // Place your snippets for JavaScript React here. Each snippet is defined under a snippet name and has a prefix, body and 
         // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
@@ -89,9 +89,9 @@ TODO Highlight```
         ],
         "description": "ES6 Constructor Component"
     },
-}```
+}``
 ### HTML:
-{
+``{
 /*
 	// Place your snippets for HTML here. Each snippet is defined under a snippet name and has a prefix, body and 
 	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
@@ -105,4 +105,4 @@ TODO Highlight```
 		],
 		"description": "Link without redirect"
 	}
-}
+}``
