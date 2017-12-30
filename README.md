@@ -5,11 +5,11 @@ All VSCode configs for comfort work
 ``One Dark Pro``
 
 ## Packages:
-``Angular Essentials
-TypeScript Hero
-Path Autocomplete
-Git Lens
-TODO Highlight``
+* Angular Essentials
+* TypeScript Hero
+* Path Autocomplete
+* Git Lens
+* TODO Highlight``
 
 ## Workspace settings:
 ``{
