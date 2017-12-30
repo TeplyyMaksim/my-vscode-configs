@@ -12,22 +12,22 @@ All VSCode configs for comfort work
 * TODO Highlight``
 
 ## Workspace settings:
-```{
-  "explorer.openEditors.visible": 0
+    {
+      "explorer.openEditors.visible": 0
 
-  /* Indent settings */
-  "editor.insertSpaces": true,
-  "editor.tabSize": 2,
-  "editor.detectIndentation": true,
-  
-  "todohighlight.keywords": [
-          {
-              "text": "NOTE:",
-              "color": "#3174ad",
-              "backgroundColor": "#00fa9a"
-          }
+      /* Indent settings */
+      "editor.insertSpaces": true,
+      "editor.tabSize": 2,
+      "editor.detectIndentation": true,
+
+      "todohighlight.keywords": [
+        {
+          "text": "NOTE:",
+          "color": "#3174ad",
+          "backgroundColor": "#00fa9a"
+        }
       ]
-}```
+    }
 
 ## Snippets:
 ### React:
