@@ -2,7 +2,7 @@
 All VSCode configs for comfort work
 
 ## Theme:
-```One Dark Pro```
+``One Dark Pro``
 
 ## Packages:
 ```Angular Essentials
