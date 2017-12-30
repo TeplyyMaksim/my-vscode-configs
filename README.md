@@ -9,7 +9,7 @@ All VSCode configs for comfort work
 * TypeScript Hero
 * Path Autocomplete
 * Git Lens
-* TODO Highlight``
+* TODO Highlight
 
 ## Workspace settings:
     {
